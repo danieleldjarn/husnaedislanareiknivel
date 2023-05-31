@@ -1,0 +1,6 @@
+# Jupyter
+ipykernel==6.23.1
+
+# Analysis
+pandas==2.0.1
+matplotlib==3.7.1
